@@ -1,6 +1,3 @@
 a=10
 b=20
-if a<b:
-    print("b is greater")
-else:
-    print("a is greter")
+print("max(a,b) : ", max(a,b))
