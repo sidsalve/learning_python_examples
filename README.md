@@ -11,3 +11,5 @@
 - git push (push changes to cloud)
 - git checkout branch-Name (change branch)
 - git branch -b new-branch-name (create new branch)
+- git branch -a (list all branch)
+- git status (see the status)
