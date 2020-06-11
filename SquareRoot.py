@@ -1,6 +1,6 @@
 # Python Program to calculate the square root
 
-# Note: change this value for a different result
+
 num=int(input("Enter the  number: "))
 
 # To take the input from the user
