@@ -1,0 +1,1 @@
+print("Minus two no", 20-10)
